@@ -1,9 +1,6 @@
 const age=22;
-const names="piyush"
+const name="piyush"
 
-
-function newfn(){
-    console.log("new fn")
+const isabove=()=>{
+    return  age>18
 }
-
-
