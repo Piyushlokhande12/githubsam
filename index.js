@@ -6,3 +6,5 @@ const isabove=()=>{
 }
 const newfeature="sports mode";
 const fourby4=4*4;
+const newfeature2="luxury";
+const fourby2=4*2;
