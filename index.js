@@ -5,3 +5,4 @@ const isabove=()=>{
     return  age>18
 }
 const newfeature="sports mode";
+const fourby4=4*4;
